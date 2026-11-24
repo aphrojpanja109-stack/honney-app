@@ -4,11 +4,13 @@
   "minVersionCode": 1,
   "forceUpdateAll": false,
   "blockAll": false,
+  "proLockEnabled": true,
   "blockMessage": "Naya HONNEY update aa gaya hai! Neeche button se naya APK download karein.",
   "apkUrl": "",
   "dailyNotice": "",
   "upiId": "aphrojpanja109@okicici",
   "proPrice": 49,
+  "tgBotToken": "9042488714:AAHBAoW106pGbHQ786swbtFy3c8qtx6GZ_E",
   "blockedDevices": [],
   "proOverrides": {}
 }
