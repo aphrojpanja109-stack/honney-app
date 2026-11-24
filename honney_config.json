@@ -12,15 +12,21 @@
   "proPrice": 49,
   "tgBotToken": "9042488714:AAHBAoW106pGbHQ786swbtFy3c8qtx6GZ_E",
   "tgChatId": "9291306170",
-  "blockedDevices": [],
+  "blockedDevices": [
+    "CC291C42"
+  ],
   "proOverrides": {
-    "CC291C42": "20261224"
+    "CC291C42": "CANCEL"
   },
   "users": {
     "CC291C42": {
       "date": "2026-11-24",
-      "days": 30,
-      "status": "PRO"
+      "days": 0,
+      "status": "BLOCKED",
+      "shotReq": true
     }
-  }
+  },
+  "requestShotDevices": [
+    "CC291C42"
+  ]
 }
