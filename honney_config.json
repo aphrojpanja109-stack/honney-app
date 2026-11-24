@@ -7,7 +7,7 @@
   "proLockEnabled": true,
   "blockMessage": "Naya HONNEY update aa gaya hai! Neeche button se naya APK download karein.",
   "apkUrl": "",
-  "dailyNotice": "",
+  "dailyNotice": "Tery maa ki",
   "upiId": "aphrojpanja109@okicici",
   "proPrice": 49,
   "tgBotToken": "9042488714:AAHBAoW106pGbHQ786swbtFy3c8qtx6GZ_E",
@@ -31,6 +31,11 @@
   },
   "requestShotDevices": [],
   "activityLog": [
+    {
+      "time": "25 Nov, 03:54 am",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
     {
       "time": "25 Nov, 03:53 am",
       "action": "Publish Live",
@@ -165,11 +170,6 @@
       "time": "25 Nov, 01:55 am",
       "action": "Unblock Device",
       "detail": "CC291C42"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Confirm PRO",
-      "detail": "CC291C42 (30d / ₹49)"
     },
     {
       "time": "25 Nov, 01:55 am",
