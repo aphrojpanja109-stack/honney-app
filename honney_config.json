@@ -14,34 +14,222 @@
   "tgChatId": "9291306170",
   "blockedDevices": [],
   "proOverrides": {
-    "CC291C42": "CANCEL"
+    "CC291C42": "20261225"
   },
   "users": {
     "CC291C42": {
       "date": "2026-11-24",
-      "days": 0,
-      "status": "BLOCKED",
-      "shotReq": true
+      "days": 30,
+      "status": "PRO",
+      "shotReq": false,
+      "planAmount": 49,
+      "planLabel": "1M",
+      "proStart": "2026-11-24",
+      "proExpiry": "2026-12-25",
+      "blockReason": ""
     }
   },
-  "requestShotDevices": [
-    "CC291C42"
-  ],
+  "requestShotDevices": [],
   "activityLog": [
     {
-      "time": "25 Nov, 01:47 am",
+      "time": "25 Nov, 01:51 am",
       "action": "Publish Live",
       "detail": "v1 (Devices: 1)"
     },
     {
-      "time": "25 Nov, 01:47 am",
-      "action": "Publish Live",
-      "detail": "v1 (Devices: 1)"
+      "time": "25 Nov, 01:51 am",
+      "action": "Confirm PRO",
+      "detail": "CC291C42 (30d / ₹49)"
     },
     {
-      "time": "25 Nov, 01:47 am",
-      "action": "Export Backup",
-      "detail": "Downloaded JSON backup"
+      "time": "25 Nov, 01:50 am",
+      "action": "Confirm PRO",
+      "detail": "CC291C42 (30d / ₹49)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 1146d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 1115d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 1084d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 1053d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 1022d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 991d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 960d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 929d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 898d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 867d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 836d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 805d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 774d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 743d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 712d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 681d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 650d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 619d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 588d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 557d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 526d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 495d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 464d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 433d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 402d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Request Shot",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Request Shot",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Request Shot",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Request Shot",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 371d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 340d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 309d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 278d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 247d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 216d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Extend PRO",
+      "detail": "CC291C42 +30d (Total 185d)"
+    },
+    {
+      "time": "25 Nov, 01:49 am",
+      "action": "Unblock Device",
+      "detail": "CC291C42"
     }
   ],
   "noticeEnabled": true,
@@ -58,5 +246,6 @@
     "smart": true,
     "honey": true,
     "ocr": true
-  }
+  },
+  "blockReasons": {}
 }
