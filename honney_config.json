@@ -35,6 +35,11 @@
     },
     {
       "time": "25 Nov, 01:47 am",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
+    {
+      "time": "25 Nov, 01:47 am",
       "action": "Export Backup",
       "detail": "Downloaded JSON backup"
     }
