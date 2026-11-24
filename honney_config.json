@@ -20,7 +20,7 @@
     "CC291C42": {
       "date": "2026-11-24",
       "days": 30,
-      "status": "PRO",
+      "status": "ACTIVE",
       "shotReq": false,
       "planAmount": 49,
       "planLabel": "CUSTOM",
@@ -31,6 +31,21 @@
   },
   "requestShotDevices": [],
   "activityLog": [
+    {
+      "time": "25 Nov, 03:10 am",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
+    {
+      "time": "25 Nov, 03:10 am",
+      "action": "Unblock Device",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 03:10 am",
+      "action": "Unblock Device",
+      "detail": "CC291C42"
+    },
     {
       "time": "25 Nov, 01:58 am",
       "action": "Publish Live",
@@ -205,21 +220,6 @@
       "time": "25 Nov, 01:54 am",
       "action": "Extend PRO",
       "detail": "CC291C42 +30d (Total 61d)"
-    },
-    {
-      "time": "25 Nov, 01:51 am",
-      "action": "Publish Live",
-      "detail": "v1 (Devices: 1)"
-    },
-    {
-      "time": "25 Nov, 01:51 am",
-      "action": "Publish Live",
-      "detail": "v1 (Devices: 1)"
-    },
-    {
-      "time": "25 Nov, 01:51 am",
-      "action": "Publish Live",
-      "detail": "v1 (Devices: 1)"
     },
     {
       "time": "25 Nov, 01:51 am",
