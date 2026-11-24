@@ -26,5 +26,32 @@
   },
   "requestShotDevices": [
     "CC291C42"
-  ]
+  ],
+  "activityLog": [
+    {
+      "time": "25 Nov, 01:47 am",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
+    {
+      "time": "25 Nov, 01:47 am",
+      "action": "Export Backup",
+      "detail": "Downloaded JSON backup"
+    }
+  ],
+  "noticeEnabled": true,
+  "noticeTarget": "all",
+  "maintenanceMode": false,
+  "plans": {
+    "p1": 49,
+    "p3": 129,
+    "p6": 229,
+    "p12": 339
+  },
+  "features": {
+    "battery": true,
+    "smart": true,
+    "honey": true,
+    "ocr": true
+  }
 }
