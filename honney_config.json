@@ -14,23 +14,53 @@
   "tgChatId": "9291306170",
   "blockedDevices": [],
   "proOverrides": {
-    "CC291C42": "20261225"
+    "CC291C42": "20261126"
   },
   "users": {
     "CC291C42": {
       "date": "2026-11-24",
-      "days": 30,
-      "status": "PRO",
+      "days": 1,
+      "status": "ACTIVE",
       "shotReq": false,
       "planAmount": 49,
-      "planLabel": "CUSTOM",
+      "planLabel": "1M",
       "proStart": "2026-11-24",
-      "proExpiry": "2026-12-25",
+      "proExpiry": "2026-11-26",
       "blockReason": ""
     }
   },
   "requestShotDevices": [],
   "activityLog": [
+    {
+      "time": "25 Nov, 03:53 am",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
+    {
+      "time": "25 Nov, 03:52 am",
+      "action": "Clear Shot Req",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 03:51 am",
+      "action": "Unblock Device",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 03:51 am",
+      "action": "Unblock Device",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 03:51 am",
+      "action": "Unblock Device",
+      "detail": "CC291C42"
+    },
+    {
+      "time": "25 Nov, 03:50 am",
+      "action": "Confirm PRO",
+      "detail": "CC291C42 (1d / ₹49)"
+    },
     {
       "time": "25 Nov, 03:11 am",
       "action": "Publish Live",
@@ -200,36 +230,6 @@
       "time": "25 Nov, 01:55 am",
       "action": "Confirm PRO",
       "detail": "CC291C42 (30d / ₹49)"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Block Device",
-      "detail": "CC291C42 (Admin Blocked)"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Confirm PRO",
-      "detail": "CC291C42 (30d / ₹49)"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Extend PRO",
-      "detail": "CC291C42 +30d (Total 61d)"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Confirm PRO",
-      "detail": "CC291C42 (30d / ₹49)"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Extend PRO",
-      "detail": "CC291C42 +30d (Total 278d)"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Extend PRO",
-      "detail": "CC291C42 +30d (Total 247d)"
     }
   ],
   "noticeEnabled": true,
@@ -247,5 +247,6 @@
     "honey": true,
     "ocr": true
   },
-  "blockReasons": {}
+  "blockReasons": {},
+  "pluginUrl": ""
 }
