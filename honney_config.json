@@ -42,6 +42,11 @@
       "detail": "v1 (Devices: 1)"
     },
     {
+      "time": "25 Nov, 04:28 am",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
+    {
       "time": "25 Nov, 04:27 am",
       "action": "Publish Live",
       "detail": "v1 (Devices: 1)"
@@ -185,11 +190,6 @@
       "time": "25 Nov, 01:55 am",
       "action": "Unblock Device",
       "detail": "CC291C42"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Confirm PRO",
-      "detail": "CC291C42 (30d / ₹49)"
     },
     {
       "time": "25 Nov, 01:55 am",
