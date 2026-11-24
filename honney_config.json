@@ -14,23 +14,33 @@
   "tgChatId": "9291306170",
   "blockedDevices": [],
   "proOverrides": {
-    "CC291C42": "CANCEL"
+    "CC291C42": "20261126"
   },
   "users": {
     "CC291C42": {
       "date": "2026-11-24",
-      "days": 0,
-      "status": "CANCELLED",
+      "days": 1,
+      "status": "PRO",
       "shotReq": false,
-      "planAmount": 0,
-      "planLabel": "0d",
-      "proStart": "--",
-      "proExpiry": "--",
+      "planAmount": 49,
+      "planLabel": "1M",
+      "proStart": "2026-11-24",
+      "proExpiry": "2026-11-26",
       "blockReason": ""
     }
   },
   "requestShotDevices": [],
   "activityLog": [
+    {
+      "time": "25 Nov, 04:41 am",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
+    {
+      "time": "25 Nov, 04:41 am",
+      "action": "Confirm PRO",
+      "detail": "CC291C42"
+    },
     {
       "time": "25 Nov, 04:41 am",
       "action": "Publish Live",
@@ -205,16 +215,6 @@
       "time": "25 Nov, 01:55 am",
       "action": "Unblock Device",
       "detail": "CC291C42"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Confirm PRO",
-      "detail": "CC291C42 (30d / ₹49)"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Confirm PRO",
-      "detail": "CC291C42 (30d / ₹49)"
     },
     {
       "time": "25 Nov, 01:55 am",
