@@ -13,5 +13,14 @@
   "tgBotToken": "9042488714:AAHBAoW106pGbHQ786swbtFy3c8qtx6GZ_E",
   "tgChatId": "9291306170",
   "blockedDevices": [],
-  "proOverrides": {}
+  "proOverrides": {
+    "CC291C42": "20261224"
+  },
+  "users": {
+    "CC291C42": {
+      "date": "2026-11-24",
+      "days": 30,
+      "status": "PRO"
+    }
+  }
 }
