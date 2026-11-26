@@ -32,6 +32,11 @@
   "requestShotDevices": [],
   "activityLog": [
     {
+      "time": "26 Nov, 09:51 pm",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
+    {
       "time": "26 Nov, 03:49 pm",
       "action": "Publish Live",
       "detail": "v1 (Devices: 1)"
@@ -190,11 +195,6 @@
       "time": "25 Nov, 01:58 am",
       "action": "Publish Live",
       "detail": "v1 (Devices: 1)"
-    },
-    {
-      "time": "25 Nov, 01:56 am",
-      "action": "Confirm PRO",
-      "detail": "CC291C42 (30d / ₹49)"
     },
     {
       "time": "25 Nov, 01:56 am",
