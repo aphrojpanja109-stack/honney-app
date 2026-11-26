@@ -32,6 +32,11 @@
   "requestShotDevices": [],
   "activityLog": [
     {
+      "time": "26 Nov, 08:06 am",
+      "action": "Publish Live",
+      "detail": "v1 (Devices: 1)"
+    },
+    {
       "time": "25 Nov, 04:41 am",
       "action": "Publish Live",
       "detail": "v1 (Devices: 1)"
@@ -225,11 +230,6 @@
       "time": "25 Nov, 01:55 am",
       "action": "Unblock Device",
       "detail": "CC291C42"
-    },
-    {
-      "time": "25 Nov, 01:55 am",
-      "action": "Confirm PRO",
-      "detail": "CC291C42 (30d / ₹49)"
     }
   ],
   "noticeEnabled": true,
@@ -248,5 +248,10 @@
     "ocr": true
   },
   "blockReasons": {},
-  "pluginUrl": ""
+  "pluginUrl": "",
+  "penalties": {
+    "c2": 3,
+    "c3": 15,
+    "c4": 30
+  }
 }
